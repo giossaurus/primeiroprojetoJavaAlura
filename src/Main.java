@@ -8,7 +8,7 @@ public class Main {
         boolean incluidoNoPlano = true;
         double notaDoFilme = 8.1;
 
-        double media = 9.8 + 6.3 + 8.0 /3;
+        double media = (9.8 + 6.3 + 8.0) /3;
         System.out.println(media);
 
     }
