@@ -5,8 +5,8 @@ public class Main {
 
         int anoDeLancamento = 2022;
         System.out.println(anoDeLancamento);
-        boolean incluidoNoPlano = false;
-
+        boolean incluidoNoPlano = true;
+        double notaDoFilme = 8.1;
 
     }
 }
